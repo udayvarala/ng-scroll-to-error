@@ -1,0 +1,22 @@
+{
+    "name": "ngScrollToError",
+    "version": "0.0.1",
+    "main": "dist/ng-scroll-to-error.js",
+    "ignore": [
+        "source",
+        "spec",
+        ".bowerrc",
+        ".gitignore",
+        ".jshintignore",
+        ".jshintrc",
+        "bower.json",
+        "gruntfile.js",
+        "package.json"
+    ],
+    "dependencies": {
+        "angular":"~1.4"
+    },
+    "devDependencies": {
+        "angular":"~1.4"
+    }
+}
