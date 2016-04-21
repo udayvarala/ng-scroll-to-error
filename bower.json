@@ -5,6 +5,7 @@
     "ignore": [
        "bower.json"
     ],
+    "main" : "src/ng-scroll-to-error.js",
     "license": "Apache-2.0",
     "keywords": "angular scroll input form error",
     "authors": "Uday Varala (UVa) <udayvarala@gmail.com>",
