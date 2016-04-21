@@ -3,7 +3,7 @@
  */
 
 angular.module('ngScrollToError', [])
-  .value('ngScrollToErrorConfig', {
+  .constant('ngScrollToErrorConfig', {
     showDebugInfo: true,
     scrollOnAllForms: true,
     focusToErrorField : true
